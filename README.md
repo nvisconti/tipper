@@ -21,4 +21,4 @@ Walkthrough of all the app stories:
  
 =======
 The GIF was created with [LiceCap](http://www.cockos.com/licecap/).
->>>>>>> Stashed changes
+
