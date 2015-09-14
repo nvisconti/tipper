@@ -13,7 +13,7 @@ Walkthrough of all the app stories:
 
 ![Video Walkthrough](tips.gif)
 
-## What did I miss?
+## What did I miss? 
 
 * [ ] Better iPhone6 adaptation: I played with the layout properties a bit, and I made some things expand propely. Horizontally everything kind of work, but vertically the effect is broken
 * [ ] Open/closed keyboar states: I tried to distribute the space in a better way wen you open or close the keyboard
